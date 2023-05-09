@@ -1,0 +1,13 @@
+WRITE AN ALGORITHM FOR ACCEPTING TWO NUMBERS, DIVIDING THE FIRST NUMBER BY SECOND AND DISPLAY THEIR QUOTIENT
+
+
+
+
+
+STEP1: Start
+STEP2: Assume that a,b and c are three variables
+STEP3: accept the user's first input a
+STEP4: accept the user's second input b
+STEP5: To get c, divide a By b (c=a/b)
+STEP6: print c
+STEP7: Stop
