@@ -1,0 +1,8 @@
+Write an Algorithm for Accepting distances in Kilometers,convert into meters and display it
+
+STEP1 :STRAT
+STEP2 :Accept Input distances in kilometers
+STEP3 :int meters
+STEP4 :meters=Kilometers*1000
+STEP5 :print meters
+STEP6 :STOP
